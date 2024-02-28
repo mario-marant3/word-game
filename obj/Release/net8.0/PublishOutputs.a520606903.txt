@@ -1,0 +1,5 @@
+D:\Prog. Android\WordGame\WordGame\bin\Release\net8.0\publish\WordGame.exe
+D:\Prog. Android\WordGame\WordGame\bin\Release\net8.0\publish\WordGame.dll
+D:\Prog. Android\WordGame\WordGame\bin\Release\net8.0\publish\WordGame.deps.json
+D:\Prog. Android\WordGame\WordGame\bin\Release\net8.0\publish\WordGame.runtimeconfig.json
+D:\Prog. Android\WordGame\WordGame\bin\Release\net8.0\publish\WordGame.pdb

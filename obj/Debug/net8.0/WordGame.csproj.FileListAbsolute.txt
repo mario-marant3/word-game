@@ -1,0 +1,14 @@
+D:\Prog. Android\WordGame\WordGame\bin\Debug\net8.0\WordGame.exe
+D:\Prog. Android\WordGame\WordGame\bin\Debug\net8.0\WordGame.deps.json
+D:\Prog. Android\WordGame\WordGame\bin\Debug\net8.0\WordGame.runtimeconfig.json
+D:\Prog. Android\WordGame\WordGame\bin\Debug\net8.0\WordGame.dll
+D:\Prog. Android\WordGame\WordGame\bin\Debug\net8.0\WordGame.pdb
+D:\Prog. Android\WordGame\WordGame\obj\Debug\net8.0\WordGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog. Android\WordGame\WordGame\obj\Debug\net8.0\WordGame.AssemblyInfoInputs.cache
+D:\Prog. Android\WordGame\WordGame\obj\Debug\net8.0\WordGame.AssemblyInfo.cs
+D:\Prog. Android\WordGame\WordGame\obj\Debug\net8.0\WordGame.csproj.CoreCompileInputs.cache
+D:\Prog. Android\WordGame\WordGame\obj\Debug\net8.0\WordGame.dll
+D:\Prog. Android\WordGame\WordGame\obj\Debug\net8.0\refint\WordGame.dll
+D:\Prog. Android\WordGame\WordGame\obj\Debug\net8.0\WordGame.pdb
+D:\Prog. Android\WordGame\WordGame\obj\Debug\net8.0\WordGame.genruntimeconfig.cache
+D:\Prog. Android\WordGame\WordGame\obj\Debug\net8.0\ref\WordGame.dll
